@@ -221,11 +221,12 @@ a:hover {
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 10rem;             /* 128px */
+	height: 10rem;
 	object-fit: cover;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
+	outline: 1px solid rgb(255, 255, 255);
   }
 
    /* Modifier for no avatar rounding */
