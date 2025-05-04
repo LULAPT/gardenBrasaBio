@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         height: 60px;
         border-radius: 50%;
         background-color:rgba(255, 255, 255, 0.94);
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.62);
         cursor: pointer;
         display: flex;
         align-items: center;
